@@ -6,14 +6,14 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '欢迎来到我的博客', url: 'https://blog.suhaolin.cn' },
-    
+    { title: '欢迎进入我的github主页', url: 'https://github.com/Urain1' }
   ],
 
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: 'SuHaoLin',
   HEO_HERO_TITLE_2: '一个普通人',
   HEO_HERO_TITLE_3: 'blog.suhaolin.cn',
-  HEO_HERO_TITLE_4: '新版上线',
+  HEO_HERO_TITLE_4: '欢迎进入',
   HEO_HERO_TITLE_5: '我的github主页',
   HEO_HERO_TITLE_LINK: 'https://github.com/Urain1',
 
@@ -37,7 +37,7 @@ const CONFIG = {
     '🤖️ 数码科技爱好者',
     '🧱 团队小组发动机'
   ],
-  HEO_INFO_CARD_URL: 'https://github.com/Urain1', // 个人资料底部按钮链接
+  HEO_INFO_CARD_URL: 'blog.suhaolin.cn', // 个人资料底部按钮链接
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
